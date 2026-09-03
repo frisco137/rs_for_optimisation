@@ -85,7 +85,7 @@ Seeds: `[1, 2, 3]`
 
 ## Phases
 
-0. `sweep` — 6 arm(s)
+0. `sweep` � 6 arm(s)
 
 ---
 
